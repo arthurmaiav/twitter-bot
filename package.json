@@ -1,0 +1,15 @@
+{
+  "name": "Desktop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.11",
+    "dotenv": "^8.2.0"
+  },
+
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
